@@ -1,16 +1,23 @@
-## Hi there 👋
+Marton Lederer
+Hey! 👋
+I'm Marton, a 20 years old web developer from Hungary.
 
-<!--
-**LionelHuanSi/LionelHuanSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦔 Founder of ArConnect Arweave Wallet
 
-Here are some ideas to get you started:
+👨‍💻 Working at Community Labs (We raised $30M!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 Founder at @th8ta and @useverto
+
+👥 Core team member at @nestdotland
+
+a lot more ;)
+Skills
+👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+⚙️ React, Svelte, Vue
+👁️ SASS, CSS, Stylus
+💽 MySQL, SQL, Mongo
+a lot more :D
+Contact
+marton.lederer.hu
+@martonlederer on Twitter
+@martonlederer on Discord
